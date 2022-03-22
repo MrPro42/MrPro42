@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MrPro42
+- 👀 I’m interested in exercising and programming.
+- 🌱 I’m currently learning Software Development and Mobile Application.
